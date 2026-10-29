@@ -1,4 +1,5 @@
 # Coffee-Sales-Excel-Dashboard
+<img width="1498" height="783" alt="image" src="https://github.com/user-attachments/assets/e323f339-4bc6-480e-995f-27a73c60a6d3" />
 
 ### Description
 
