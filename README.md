@@ -20,7 +20,6 @@ Give a coffee retailer a single view of how the business is performing, so stake
 - **Calculated fields:** Sales = Quantity × Unit Price.
 - **Pivot tables and pivot charts:** Built the line chart (sales by coffee type by month), the bar chart (sales by country) and the Top 5 Customers ranking.
 - **Interactive filtering:** Added a timeline and slicers (roast, size, loyalty card) connected to all visuals.
-- **Dashboard design:** Used a consistent coffee-themed palette, a clear layout and readable labels, with filters on top and charts below.
 - **Data storytelling:** Turned the numbers into findings and recommendations.
 
 ### Results
